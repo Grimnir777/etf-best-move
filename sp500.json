@@ -1,0 +1,92 @@
+[
+    {
+        "name": "IQ 500 ETF ",
+        "ticker": "IQUS",
+        "permaTicker": "US000000080908",
+        "openFIGIComposite": null,
+        "assetType": "ETF",
+        "isActive": true,
+        "countryCode": "US"
+    },
+    {
+        "name": "Plus500 Ltd",
+        "ticker": "PLSQF",
+        "permaTicker": "US000000059673",
+        "openFIGIComposite": "BBG00790RSS3",
+        "assetType": "Stock",
+        "isActive": true,
+        "countryCode": "US"
+    },
+    {
+        "name": "SOFI NEXT 500 ETF ",
+        "ticker": "SFYX",
+        "permaTicker": "US000000078044",
+        "openFIGIComposite": "BBG00NV84F36",
+        "assetType": "ETF",
+        "isActive": true,
+        "countryCode": "US"
+    },
+    {
+        "name": "SoFi Select 500 ETF",
+        "ticker": "SFY",
+        "permaTicker": "US000000002572",
+        "openFIGIComposite": "BBG00NV84CX0",
+        "assetType": "ETF",
+        "isActive": true,
+        "countryCode": "US"
+    },
+    {
+        "name": "NIGHTSHARES 500 ETF ",
+        "ticker": "NSPY",
+        "permaTicker": "US000000105478",
+        "openFIGIComposite": "BBG018K71GP9",
+        "assetType": "ETF",
+        "isActive": true,
+        "countryCode": "US"
+    },
+    {
+        "name": "S&P 500 FUND CLASS A",
+        "ticker": "RYSOX",
+        "permaTicker": "US000000033071",
+        "openFIGIComposite": "BBG000DYGPD3",
+        "assetType": "Mutual Fund",
+        "isActive": true,
+        "countryCode": "US"
+    },
+    {
+        "name": "S&P 500 FUND CLASS C",
+        "ticker": "RYSYX",
+        "permaTicker": "US000000033078",
+        "openFIGIComposite": "BBG000DYGT63",
+        "assetType": "Mutual Fund",
+        "isActive": true,
+        "countryCode": "US"
+    },
+    {
+        "name": "S&P 500 FUND CLASS H",
+        "ticker": "RYSPX",
+        "permaTicker": "US000000033085",
+        "openFIGIComposite": "BBG000DYGSJ1",
+        "assetType": "Mutual Fund",
+        "isActive": true,
+        "countryCode": "US"
+    },
+    {
+        "name": "SPDR S&P 500 ESG ETF",
+        "ticker": "EFIV",
+        "permaTicker": "US000000086779",
+        "openFIGIComposite": "BBG00W7DVDD6",
+        "assetType": "ETF",
+        "isActive": true,
+        "countryCode": "US"
+    },
+    {
+        "name": "S&P 500 ETF TRUST ETF",
+        "ticker": "SPY",
+        "permaTicker": "US000000000040",
+        "openFIGIComposite": "BBG000BDTBL9",
+        "assetType": "ETF",
+        "isActive": true,
+        "countryCode": "US"
+    }
+]
